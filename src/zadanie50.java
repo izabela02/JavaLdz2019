@@ -1,6 +1,6 @@
 /*Utwórz metodę, która przyjmuje dwa parametry - tablicę oraz liczbę.
 Metoda ma zwrócić pierwszy indeks szukanego elementu.
-dy dana liczba nie będzie znajdować się w tablicy, metoda powinna zwrócić wartość `-1`. (edited)
+Gdy dana liczba nie będzie znajdować się w tablicy, metoda powinna zwrócić wartość `-1`. (edited)
  */
 public class zadanie50 {
     public static void main(String[] args) {
